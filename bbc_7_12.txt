@@ -5,8 +5,7 @@ Title: Iraq sees worst bombing since invasion with 250 deaths
 
 
 1. Iraq  : 伊拉克
-   iraqi :
-伊拉克人
+   iraqi : 伊拉克人
 
 2. bombing (bomb) : 轟炸
 
@@ -19,11 +18,9 @@ Title: Iraq sees worst bombing since invasion with 250 deaths
 
 6. capital : 首都
 
-7. Baghdad
-: 巴格達
+7. Baghdad : 巴格達
 
-8. has risen to 250
-: 已上升至250
+8. has risen to 250 : 已上升至250
 
 9. the Iraqi government : 伊拉克政府
 
