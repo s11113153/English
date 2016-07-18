@@ -31,8 +31,7 @@ Title: Iraq sees worst bombing since invasion with 250 deaths
 11. US-led : 以美國為首的
 
 12. lorry : 貨車; 卡車
-    lorry packed with
-: 貨車擠滿了
+    lorry packed with : 貨車擠滿了
 
 
 13. pack : 包裹; 打包,收拾(行李)
@@ -49,17 +48,14 @@ Title: Iraq sees worst bombing since invasion with 250 deaths
 
 
 
-17. district
-: 區域;
+17. district : 區域
     in the Karrada district
 
-18. families
-: 家庭; 家人
+18. families : 家庭; 家人
 
 19. So-called : 所謂的
 
-20. carried out
-: 執行; 進行; 履行
+20. carried out : 執行; 進行; 履行
     it carried out the suicide attack.
 
 
